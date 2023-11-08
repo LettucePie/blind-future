@@ -14,7 +14,7 @@ A game in a techno-future, maybe even digital reality. Within this reality there
   - The Player is immersed in sounds of a highly technical space ship.
   - Tilting the phone forward would increase speed, however an additional distortive effect grows more violent if held too long. Tilting back calms it down.
 
-## Concerns / worries
+## Concerns / Worries
 - Offensive?
   - Could it be considered rude making "blind challenges"?
 - Gryoscope misalignments
@@ -24,3 +24,6 @@ A game in a techno-future, maybe even digital reality. Within this reality there
 - Physical Danger
   - With Stereo headphones being important, real-life alarms could be missed.
   - Physical Gestures means an open space away from sharp or hazardous objects is required.
+
+## Why?
+One day I was fidgeting with a pen and somehow flicked it direclty towards my own face, where it made contact with side of my nose, very close to my eye. That moment made me realize I would have no idea what to do with myself were I to go blind, and couldn't even think of a game I would like to play in that situation. I then started to feel really sad for the blind, and did a bit of research. There are phones for visually impaired, they utilize a voice assistant as well as touch and shake gestures. Since these phones run android, why not try to make a game for them?
